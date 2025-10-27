@@ -5,7 +5,7 @@ This repository contains a detailed analysis of pizza sales data, offering valua
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Files Included](#files-included)
-- [Work Done](#work-done)
+- [Work Done](#work-done) 
 - [Results](#results)
 - [Installation and Setup](#installation-and-setup)
 
